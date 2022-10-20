@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\itmm-2213-a\source\repos\ConsolHardProject\Source.c(98,26): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\itmm-2213-a\source\repos\ConsolHardProject\Source.c(98,26): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\itmm-2213-a\source\repos\ConsolHardProject\Source.c(99,63): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+  ConsolHardProject.vcxproj -> C:\Users\itmm-2213-a\source\repos\ConsolHardProject\x64\Debug\ConsolHardProject.exe
