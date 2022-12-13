@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (123.vcxproj, hm1var1.vcxproj, homework1.vcxproj, solution.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  hw1var1.cpp
+C:\Users\Артем\source\repos\123\123\hw1var1.cpp(6,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Артем\source\repos\123\123\hw1var1.cpp(7,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Артем\source\repos\123\123\hw1var1.cpp(8,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Артем\source\repos\123\123\hw1var1.cpp(10,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  123.vcxproj -> C:\Users\Артем\source\repos\123\Debug\hw1var1.exe
