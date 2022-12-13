@@ -1,0 +1,3 @@
+﻿  hw1var5.cpp
+C:\Users\Артем\source\repos\123\hw1var5\hw1var5.cpp(19,9): warning C4477: "printf": в строке форматирования "%.2f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+  hw1var5.vcxproj -> C:\Users\Артем\source\repos\123\Debug\hw1var5.exe
