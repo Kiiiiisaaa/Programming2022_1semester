@@ -104,7 +104,7 @@ int main() {
 	int back_exp_fl = 0;  
 	int back_alg_fl = 0;  
 	int back_set_fl = 0;  
-	char path[100] = "C:\\Users\\Артем\\source\\repos\\HW\\LB1\\";
+	char path[100] = "C:\\Users\\Ксения\\source\\repos\\HW\\LB1\\";
 	NUMS nums; 
 
 	
