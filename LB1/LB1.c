@@ -40,7 +40,7 @@ int main() {
 	SetConsoleCursorInfo(hStdOut, &structCursorInfo);
 
 	
-	SetConsoleTextAttribute(hStdOut, CONSOLE_COLOR_STYLE);
+	SetConsoleTextAttribute(hStdOut, BACKGROUND_RED);
 
 	system("cls");
 
